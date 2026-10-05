@@ -1,0 +1,2 @@
+# GRE-
+Soft computing project 
